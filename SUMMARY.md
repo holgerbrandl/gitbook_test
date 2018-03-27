@@ -4,7 +4,7 @@
 
 * [My Awesome API](README.md)
 * [Foo](foo.md)
-* Chapter 2
+* [Chapter 2](chapter-2.md)
 
 ## Methods
 
