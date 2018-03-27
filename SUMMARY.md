@@ -1,6 +1,6 @@
 # Summary
 
-## Overview
+## Overview about krangl
 
 * [My Awesome API](README.md)
 * [Foo](foo.md)
