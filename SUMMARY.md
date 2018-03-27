@@ -3,7 +3,7 @@
 ## Overview about krangl
 
 * [My Awesome API](README.md)
-* [Foo](foo.md)
+* [FooBar](foo.md)
 * [Chapter 2](chapter-2.md)
 
 ## Methods
