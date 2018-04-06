@@ -1,4 +1,6 @@
 {
+  "root": "./docs",
+
     "plugins": [ "theme-api" ],
     "pluginsConfig": {
         "theme-api": {
